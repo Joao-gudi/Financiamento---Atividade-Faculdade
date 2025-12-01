@@ -1,0 +1,2 @@
+Apartamento;250000,00;15;0,0900;2;5
+Terreno;150000,00;10;0,1200;residencial;0,0200
